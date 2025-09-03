@@ -1,0 +1,240 @@
+[
+  {
+    "id": "cmdr01tgg00002yqotggq8wbu",
+    "name": "Central Buganda",
+    "coordinator": "Fatia Nasaka",
+    "contact": null,
+    "email": "fatianassaka@gmail.com"
+  },
+  {
+    "id": "cmdr01tgg00012yqoyjrshcba",
+    "name": "North Buganda",
+    "coordinator": "Namisanvu Allen",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg00022yqoa79jy9kt",
+    "name": "East Buganda",
+    "coordinator": "Kulabako Maria",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg00032yqo2jdh3ur4",
+    "name": "North West Buganda",
+    "coordinator": "Ndyanabo Evans",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg00042yqojq48wp8t",
+    "name": "South West Buganda",
+    "coordinator": "Nakanwagi Jacenta",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg00052yqohm5zkaba",
+    "name": "South Buganda",
+    "coordinator": "Namulondo Harriet",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg00062yqo361i7sk3",
+    "name": "North Rwenzori",
+    "coordinator": "Barugahare Robenson",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg00072yqoe95umsuq",
+    "name": "South Rwenzori",
+    "coordinator": "Kalembe Kelet Bogere",
+    "contact": "0782347134",
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg00082yqojssmtjnr",
+    "name": "East Rwenzori",
+    "coordinator": "Ajoku Yona",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg00092yqoz9pnt5iy",
+    "name": "North Ankole",
+    "coordinator": "Natuhwera Chrispus",
+    "contact": "0782555957",
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000a2yqovc2x1zud",
+    "name": "South Ankole",
+    "coordinator": "Kamahunde Shiffra",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000b2yqougl137d5",
+    "name": "Central Ankole",
+    "coordinator": "Arinaitwe Rodgers",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000c2yqoqsl0hcmq",
+    "name": "Kigezi North Region",
+    "coordinator": "Akampurira Dickson",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000d2yqol9lyzpv9",
+    "name": "Kigezi South Region",
+    "coordinator": "Arinaitwe B. Edward",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000e2yqo9as8s3ob",
+    "name": "South Bunyoro",
+    "coordinator": "Magezi James",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000f2yqoynzh9yox",
+    "name": "North Bunyoro",
+    "coordinator": "Akello Florence",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000g2yqozzf44lgv",
+    "name": "Sebei",
+    "coordinator": "Kariong Michael",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000h2yqouqfb8cgo",
+    "name": "Busoga South",
+    "coordinator": "Buyinza Godfrey",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000i2yqogl1ahbcz",
+    "name": "Busoga North",
+    "coordinator": "Batani John",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000j2yqoudm9m059",
+    "name": "East Teso",
+    "coordinator": "Amongi Margaret",
+    "contact": "0774773497",
+    "email": "margyamongin@gmail.com"
+  },
+  {
+    "id": "cmdr01tgg000k2yqobf4isfvx",
+    "name": "Central Teso",
+    "coordinator": "Okullu Sylus",
+    "contact": "0772635666",
+    "email": "ageo1922@yahoo.com"
+  },
+  {
+    "id": "cmdr01tgg000l2yqosqt5k40l",
+    "name": "North Teso",
+    "coordinator": "Asio Dorothy",
+    "contact": "0782994251",
+    "email": "asiodorothy@gmail.com"
+  },
+  {
+    "id": "cmdr01tgg000m2yqoioq7dv4u",
+    "name": "Bukedi",
+    "coordinator": "Agembi Stella",
+    "contact": "0782900955",
+    "email": "stella.agembi@gmail.com"
+  },
+  {
+    "id": "cmdr01tgg000n2yqofemz22e5",
+    "name": "Bugisu",
+    "coordinator": "Taaka Esther",
+    "contact": "0772468831",
+    "email": "taakaesther3@gmail.com"
+  },
+  {
+    "id": "cmdr01tgg000o2yqorgu7bse8",
+    "name": "South Karamoja",
+    "coordinator": "Akello Evalyne",
+    "contact": null,
+    "email": "Akellomary1978@gmail.com"
+  },
+  {
+    "id": "cmdr01tgg000p2yqohxxqimte",
+    "name": "Central Karamoja",
+    "coordinator": "OWor Alice Oyella",
+    "contact": null,
+    "email": "oworalice@gmail.com"
+  },
+  {
+    "id": "cmdr01tgg000q2yqoekn85q2q",
+    "name": "North Karamoja",
+    "coordinator": "Apio Florence",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000r2yqoc0ao1b95",
+    "name": "Acholi West",
+    "coordinator": "Aciro Josephene",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000s2yqocis3p2tf",
+    "name": "Acholi East",
+    "coordinator": "Moding Celestine",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000t2yqoaoq998r6",
+    "name": "Lango West",
+    "coordinator": "Akello Medina",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000u2yqo0nitjnzw",
+    "name": "Lango East",
+    "coordinator": "Adong Petua",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000v2yqo6ueehuzz",
+    "name": "Central West Nile",
+    "coordinator": "Andezu Sally",
+    "contact": null,
+    "email": null
+  },
+  {
+    "id": "cmdr01tgg000w2yqoaxmq8y17",
+    "name": "North West Nile",
+    "coordinator": "Kaatimala Siasa",
+    "contact": "0774500941",
+    "email": "siasakadimala03@gmail.com"
+  },
+  {
+    "id": "cmdr01tgg000x2yqots4e42ag",
+    "name": "South North West Nile",
+    "coordinator": "Akumu Agnes",
+    "contact": null,
+    "email": null
+  }
+]

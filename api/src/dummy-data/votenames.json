@@ -1,0 +1,410 @@
+[
+  {
+    "id": "cmdr01tgi000y2yqoa48s0cxw",
+    "code": 405,
+    "name": "GULU REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000r2yqoc0ao1b95"
+  },
+  {
+    "id": "cmdr01tgj000z2yqohh5gibtz",
+    "code": 824,
+    "name": "BUSHENYI DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000a2yqovc2x1zud"
+  },
+  {
+    "id": "cmdr01tgk00102yqorwio2xrp",
+    "code": 806,
+    "name": "AMUDAT DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000o2yqorgu7bse8"
+  },
+  {
+    "id": "cmdr01tgl00112yqo56ylgrch",
+    "code": 408,
+    "name": "KABALE REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000d2yqol9lyzpv9"
+  },
+  {
+    "id": "cmdr01tgm00122yqoimeizf6h",
+    "code": 892,
+    "name": "MBARARA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000b2yqougl137d5"
+  },
+  {
+    "id": "cmdr01tgs00132yqo1wrotvxp",
+    "code": 409,
+    "name": "MASAKA REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg00042yqojq48wp8t"
+  },
+  {
+    "id": "cmdr01tha00142yqoehkuxzyh",
+    "code": 933,
+    "name": "WAKISO DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00012yqoyjrshcba"
+  },
+  {
+    "id": "cmdr01the00152yqof247as7a",
+    "code": 884,
+    "name": "LYANTONDE DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00042yqojq48wp8t"
+  },
+  {
+    "id": "cmdr01thi00162yqokahndslb",
+    "code": 838,
+    "name": "JINJA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000h2yqouqfb8cgo"
+  },
+  {
+    "id": "cmdr01thj00172yqo8is4a34z",
+    "code": 407,
+    "name": "JINJA REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000h2yqouqfb8cgo"
+  },
+  {
+    "id": "cmdr01thm00182yqoymw0sdb6",
+    "code": 910,
+    "name": "NTOROKO DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00062yqo361i7sk3"
+  },
+  {
+    "id": "cmdr01thm00192yqomzy30pkx",
+    "code": 602,
+    "name": "FORT PORTAL CITY COUNCIL",
+    "regionId": "cmdr01tgg00062yqo361i7sk3"
+  },
+  {
+    "id": "cmdr01thn001a2yqo0bcq7us4",
+    "code": 852,
+    "name": "KAPCHORWA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000g2yqozzf44lgv"
+  },
+  {
+    "id": "cmdr01tho001b2yqow65iv1fn",
+    "code": 926,
+    "name": "SEMBABULE DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00042yqojq48wp8t"
+  },
+  {
+    "id": "cmdr01thp001c2yqou73dkjex",
+    "code": 728,
+    "name": "NTUNGAMO MUNICIPAL COUNCIL",
+    "regionId": "cmdr01tgg000b2yqougl137d5"
+  },
+  {
+    "id": "cmdr01thq001d2yqo39s4ciou",
+    "code": 896,
+    "name": "MOYO DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000x2yqots4e42ag"
+  },
+  {
+    "id": "cmdr01thr001e2yqoivixaxeo",
+    "code": 897,
+    "name": "MPIGI DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00022yqoa79jy9kt"
+  },
+  {
+    "id": "cmdr01thv001f2yqo9saf0xku",
+    "code": 831,
+    "name": "DOKOLO DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000t2yqoaoq998r6"
+  },
+  {
+    "id": "cmdr01ti0001g2yqopr3fcsq0",
+    "code": 410,
+    "name": "MBALE REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000n2yqofemz22e5"
+  },
+  {
+    "id": "cmdr01ti2001h2yqoxdjucyrb",
+    "code": 930,
+    "name": "SOROTI DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000k2yqobf4isfvx"
+  },
+  {
+    "id": "cmdr01ti3001i2yqobshqtj40",
+    "code": 817,
+    "name": "BUKEDEA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000j2yqoudm9m059"
+  },
+  {
+    "id": "cmdr01ti5001j2yqo87e5lxsc",
+    "code": 403,
+    "name": "ARUA REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000v2yqo6ueehuzz"
+  },
+  {
+    "id": "cmdr01ti6001k2yqow8z3mk3r",
+    "code": 891,
+    "name": "MBALE DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000n2yqofemz22e5"
+  },
+  {
+    "id": "cmdr01tia001l2yqotxyhm7ao",
+    "code": 605,
+    "name": "JINJA CITY COUNCIL",
+    "regionId": "cmdr01tgg000h2yqouqfb8cgo"
+  },
+  {
+    "id": "cmdr01tib001m2yqotzx6v1au",
+    "code": 885,
+    "name": "MADI-OKOLLO DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000v2yqo6ueehuzz"
+  },
+  {
+    "id": "cmdr01tii001n2yqo7ty8bgzk",
+    "code": 413,
+    "name": "MBARARA REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000b2yqougl137d5"
+  },
+  {
+    "id": "cmdr01tim001o2yqok25w1p76",
+    "code": 807,
+    "name": "AMURIA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000l2yqosqt5k40l"
+  },
+  {
+    "id": "cmdr01tin001p2yqooth9am75",
+    "code": 865,
+    "name": "KIRYANDONGO DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000f2yqoynzh9yox"
+  },
+  {
+    "id": "cmdr01tin001q2yqoyakmg040",
+    "code": 816,
+    "name": "BUIKWE DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00052yqohm5zkaba"
+  },
+  {
+    "id": "cmdr01tio001r2yqoygqahzvo",
+    "code": 928,
+    "name": "SHEEMA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000a2yqovc2x1zud"
+  },
+  {
+    "id": "cmdr01tip001s2yqowkpt0ge4",
+    "code": 842,
+    "name": "KABERAMAIDO DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000k2yqobf4isfvx"
+  },
+  {
+    "id": "cmdr01tir001t2yqovbswmaab",
+    "code": 706,
+    "name": "IBANDA MUNICIPAL COUNCIL",
+    "regionId": "cmdr01tgg00092yqoz9pnt5iy"
+  },
+  {
+    "id": "cmdr01tiw001u2yqoemykw8yy",
+    "code": 412,
+    "name": "LIRA REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000t2yqoaoq998r6"
+  },
+  {
+    "id": "cmdr01tiy001v2yqoksmqsgd1",
+    "code": 715,
+    "name": "KOBOKO MUNICIPAL COUNCIL",
+    "regionId": "cmdr01tgg000w2yqoaxmq8y17"
+  },
+  {
+    "id": "cmdr01tiy001w2yqosg2ox35c",
+    "code": 711,
+    "name": "KASESE MUNICIPAL COUNCIL",
+    "regionId": "cmdr01tgg00072yqoe95umsuq"
+  },
+  {
+    "id": "cmdr01tj4001x2yqoi0fd52vm",
+    "code": 411,
+    "name": "SOROTI REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000k2yqobf4isfvx"
+  },
+  {
+    "id": "cmdr01tj4001y2yqomergvshm",
+    "code": 835,
+    "name": "IBANDA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00092yqoz9pnt5iy"
+  },
+  {
+    "id": "cmdr01tj6001z2yqowk57bp89",
+    "code": 610,
+    "name": "SOROTI CITY COUNCIL",
+    "regionId": "cmdr01tgg000k2yqobf4isfvx"
+  },
+  {
+    "id": "cmdr01tj700202yqoadbp1kaq",
+    "code": 925,
+    "name": "RWAMPARA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000b2yqougl137d5"
+  },
+  {
+    "id": "cmdr01tj800212yqo5grvshp6",
+    "code": 825,
+    "name": "BUSIA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000m2yqoioq7dv4u"
+  },
+  {
+    "id": "cmdr01tje00222yqo4ritocut",
+    "code": 802,
+    "name": "ADJUMANI DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000x2yqots4e42ag"
+  },
+  {
+    "id": "cmdr01tjh00232yqoppgqqj2h",
+    "code": 853,
+    "name": "KAPELEBYONG DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000l2yqosqt5k40l"
+  },
+  {
+    "id": "cmdr01tjj00242yqomfnvzxz9",
+    "code": 912,
+    "name": "NWOYA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000r2yqoc0ao1b95"
+  },
+  {
+    "id": "cmdr01tjj00252yqofcg3hjv6",
+    "code": 850,
+    "name": "KAMWENGE DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00082yqojssmtjnr"
+  },
+  {
+    "id": "cmdr01tjl00262yqobeugehca",
+    "code": 886,
+    "name": "MANAFWA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000n2yqofemz22e5"
+  },
+  {
+    "id": "cmdr01tjl00272yqombkgbiym",
+    "code": 837,
+    "name": "ISINGIRO DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000b2yqougl137d5"
+  },
+  {
+    "id": "cmdr01tjm00282yqonrao43co",
+    "code": 834,
+    "name": "HOIMA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000e2yqo9as8s3ob"
+  },
+  {
+    "id": "cmdr01tjm00292yqotfgpwgod",
+    "code": 903,
+    "name": "NAKASONGOLA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00012yqoyjrshcba"
+  },
+  {
+    "id": "cmdr01tjn002a2yqowmstm542",
+    "code": 888,
+    "name": "MASAKA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00042yqojq48wp8t"
+  },
+  {
+    "id": "cmdr01tjn002b2yqo9m6kle6d",
+    "code": 861,
+    "name": "KIBOGA DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00032yqo2jdh3ur4"
+  },
+  {
+    "id": "cmdr01tjn002c2yqo4lrb6y8d",
+    "code": 122,
+    "name": "KAMPALA CAPITAL CITY AUTHORITY (KCCA)",
+    "regionId": "cmdr01tgg00002yqotggq8wbu"
+  },
+  {
+    "id": "cmdr01tjo002d2yqosx8xjqbd",
+    "code": 815,
+    "name": "BUHWEJU DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00092yqoz9pnt5iy"
+  },
+  {
+    "id": "cmdr01tjs002e2yqohpzdxh09",
+    "code": 609,
+    "name": "MBARARA CITY COUNCIL",
+    "regionId": "cmdr01tgg000b2yqougl137d5"
+  },
+  {
+    "id": "cmdr01tjx002f2yqo9saf0xku",
+    "code": 420,
+    "name": "MULAGO SPECIALIZED WOMEN AND NEONATAL HOSPITAL",
+    "regionId": "cmdr01tgg00002yqotggq8wbu"
+  },
+  {
+    "id": "cmdr01tjx002g2yqopr3fcsq0",
+    "code": 839,
+    "name": "KAABONG DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg000q2yqoekn85q2q"
+  },
+  {
+    "id": "cmdr01tjx002h2yqoxdjucyrb",
+    "code": 401,
+    "name": "MULAGO NATIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg00002yqotggq8wbu"
+  },
+  {
+    "id": "cmdr01tjx002i2yqobshqtj40",
+    "code": 730,
+    "name": "SHEEMA MUNICIPAL COUNCIL",
+    "regionId": "cmdr01tgg000a2yqovc2x1zud"
+  },
+  {
+    "id": "cmdr01tjx002j2yqo87e5lxsc",
+    "code": 406,
+    "name": "HOIMA REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000e2yqo9as8s3ob"
+  },
+  {
+    "id": "cmdr01tjx002k2yqow8z3mk3r",
+    "code": 703,
+    "name": "BUSHENYI-ISHAKA MUNICIPAL COUNCIL",
+    "regionId": "cmdr01tgg000a2yqovc2x1zud"
+  },
+  {
+    "id": "cmdr01tjx002l2yqotxyhm7ao",
+    "code": 841,
+    "name": "KABAROLE DISTRICT LOCAL GOVERNMENT",
+    "regionId": "cmdr01tgg00062yqo361i7sk3"
+  },
+  {
+    "id": "cmdr01tjx002m2yqotzx6v1au",
+    "code": 419,
+    "name": "ENTEBBE REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg00012yqoyjrshcba"
+  },
+  {
+    "id": "cmdr01tjx002n2yqo7ty8bgzk",
+    "code": 418,
+    "name": "KAWEMPE SPECIALISED NATIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg00002yqotggq8wbu"
+  },
+  {
+    "id": "cmdr01tjx002o2yqok25w1p76",
+    "code": 709,
+    "name": "KAMULI MUNICIPAL COUNCIL",
+    "regionId": "cmdr01tgg000i2yqogl1ahbcz"
+  },
+  {
+    "id": "cmdr01tjx002p2yqooth9am75",
+    "code": 729,
+    "name": "RUKUNGIRI MUNICIPAL COUNCIL",
+    "regionId": "cmdr01tgg000c2yqoqsl0hcmq"
+  },
+  {
+    "id": "cmdr01tjx002q2yqoyakmg040",
+    "code": 708,
+    "name": "KABALE MUNICIPAL COUNCIL",
+    "regionId": "cmdr01tgg000d2yqol9lyzpv9"
+  },
+  {
+    "id": "cmdr01tjx002r2yqoygqahzvo",
+    "code": 415,
+    "name": "MOROTO REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg000p2yqohxxqimte"
+  },
+  {
+    "id": "cmdr01tjx002s2yqowkpt0ge4",
+    "code": 404,
+    "name": "FORT PORTAL REGIONAL REFERRAL HOSPITAL",
+    "regionId": "cmdr01tgg00062yqo361i7sk3"
+  },
+  {
+    "id": "cmdr01tjx002t2yqovbswmaab",
+    "code": 308,
+    "name": "SOROTI UNIVERSITY",
+    "regionId": "cmdr01tgg000k2yqobf4isfvx"
+  }
+]

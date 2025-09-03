@@ -1,0 +1,39 @@
+
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Region {
+  id          String     @id @default(cuid())
+  name        String     @unique
+  coordinator String
+  contact     String?    // Optional contact field
+  email       String?    // Optional email field
+  voteNames   VoteName[]
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+
+  @@map("regions")
+}
+
+model VoteName {
+  id        String   @id @default(cuid())
+  code      Int      @unique
+  name      String
+  regionId  String
+  region    Region   @relation(fields: [regionId], references: [id])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("vote_names")
+}
+
+
